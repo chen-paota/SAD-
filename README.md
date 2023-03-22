@@ -21,3 +21,4 @@
 [影片連結](https://youtube.com/playlist?list=PL9NZYNTi48oAD6_uj2aNLK4zFmpKZ5sxj)
 
 # 作業區
+* 作業一:自學領域簡介[影片連結](https://youtu.be/EvzwRDYSXiM)

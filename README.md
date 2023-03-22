@@ -16,8 +16,10 @@
 3. Seaborn：Seaborn是一個基於Matplotlib的高級數據可視化庫。它提供了各種美觀且易於理解的圖表類型，可以幫助人們更好地理解和分析商務數據。[影片連結](https://www.youtube.com/watch?v=7cCFA5u9Myo)
 
 * 金融知識
-關於金融科技的應用
-對於保險與投資上的了解
+
+1.關於金融科技的應用
+
+2.對於保險與投資上的了解
 [影片連結](https://youtube.com/playlist?list=PL9NZYNTi48oAD6_uj2aNLK4zFmpKZ5sxj)
 
 # 作業區

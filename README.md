@@ -24,3 +24,4 @@
 
 # 作業區
 * 作業一:自學領域簡介[影片連結](https://youtu.be/EvzwRDYSXiM)
+* 作業二:實作練習[影片連結](https://youtu.be/uvFYseoct8A)

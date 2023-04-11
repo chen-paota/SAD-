@@ -24,4 +24,4 @@
 
 # 作業區
 * 作業一:自學領域簡介[影片連結](https://youtu.be/EvzwRDYSXiM)
-* 作業二:實作練習[影片連結](https://youtu.be/uvFYseoct8A)
+* 作業二:實作練習(實作基礎python以及結合債券概念）[影片連結](https://youtu.be/uvFYseoct8A)

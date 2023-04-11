@@ -21,7 +21,7 @@
 
 2.對於保險與投資上的了解
 [影片連結](https://youtube.com/playlist?list=PL9NZYNTi48oAD6_uj2aNLK4zFmpKZ5sxj)
-
+3.債券投資計算［影片連結］（https://youtu.be/h0qTNT6NH7E）
 # 作業區
 * 作業一:自學領域簡介[影片連結](https://youtu.be/EvzwRDYSXiM)
 * 作業二:實作練習(實作基礎python以及結合債券概念）[影片連結](https://youtu.be/uvFYseoct8A)

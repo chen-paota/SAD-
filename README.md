@@ -1,6 +1,6 @@
 # 心智圖 
 [我的技能樹](https://gitmind.com/app/docs/m17u9c94?lang=tw)
-[Notion](https://notch-structure-649.notion.site/c2d6449fe00749e9bbe455e997bdfbc9?v=0849294a0b734a5c96d989bc51c7be6e)
+//[Notion](https://notch-structure-649.notion.site/c2d6449fe00749e9bbe455e997bdfbc9?v=0849294a0b734a5c96d989bc51c7be6e)//
 # 學習的目標
 藉由上課的機會，初次學習Python程式語言，同時以過去修習經濟學與貨幣學為基礎，做出作品。
 # 為自己安排的學習進度

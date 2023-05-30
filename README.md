@@ -1,6 +1,8 @@
 # 期末專題
 * 進度追蹤1:[簡報連結](https://www.canva.com/design/DAFgzceRYq8/kGnnlW02Vg9RkPrR9tD2dw/edit?analyticsCorrelationId=01f2c457-afe0-4e6b-a833-f7b5c8ff137c)
 * 進度追蹤2:[簡報連結](https://www.canva.com/design/DAFi4LL_DZ4/dws8Tb0NmAeAiJct-XOxOg/edit)
+* 發表影片簡報:[簡報連結](https://www.canva.com/design/DAFkW4uGDX0/wPytU4NhtoCMBKE9V-zQyQ/edit)
+* 專題企畫簡報(由蘇子恩同學製作):[簡報連結](https://www.canva.com/design/DAFkWyuDzOw/SJZzYzn-mDsm4ZeWew18Uw/edit?analyticsCorrelationId=4b315df4-7175-4608-b546-0c1e52f2fbf0)
 
 # 作業區
 * 作業一:自學領域簡介[影片連結](https://youtu.be/EvzwRDYSXiM)
